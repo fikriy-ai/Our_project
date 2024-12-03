@@ -51,7 +51,7 @@ It also applies to public spaces where an individual is representing the project
 ## Reporting Violations
 
 If you experience or witness behavior that violates this Code of Conduct, please report it as follows:
-1. Send an email to the project maintainers at: [your_email@example.com].
+1. Send an email to the project maintainers at: [fikremichaelmamo@gmail.com].
 2. Describe the incident, including:
    - What happened.
    - Where it occurred (e.g., GitHub issue, chat platform).
